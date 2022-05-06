@@ -28,7 +28,7 @@
     "prepare": "husky install"
   },
   "prettier": {
-    "singleQuote": true,
+    "singleQuote": false,
     "trailingComma": "all"
   },
   "eslintConfig": {
