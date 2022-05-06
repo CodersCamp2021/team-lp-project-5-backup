@@ -6,7 +6,7 @@
 
 **Team members**:
 
-- [Patryk Brodziak](https://github.com/patrykbrodziak)
+- [Patryk Brodziak](https://github.com/patrykbrodziak1)
 - [Jakub Czerwiński](https://github.com/kubaczerwinski77)
 - [Huber Grobelny](https://github.com/Burbinox)
 - [Maciej Jankowski](https://github.com/macjank)
